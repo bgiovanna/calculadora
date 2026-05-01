@@ -1,0 +1,14 @@
+# QA Prácticas - Talento Tech
+
+Repositorio con ejercicios prácticos orientados a QA.
+
+## Contenido
+
+- Clase 04: Calculadora en Python (lógica básica)
+- Clase 05: Calculadora Web (HTML, CSS, selectores, validación en DevTools)
+
+## Objetivos
+
+- Practicar lógica de programación
+- Identificar elementos con selectores CSS
+- Validar comportamiento en navegador
